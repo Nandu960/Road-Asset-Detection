@@ -6,11 +6,16 @@ Our project is an extended work on the blooming Computer Vision on  localization
 Epochs	             120
 
 Dataset size	       Potholes : 630
+                     
                      Pascal VOC: 2029
+                     
                      LISA: 6618
-Accuracy	            84
-                      88
-                      87
+
+Accuracy	           
+Pothole Detection :84
+ 
+ Vehicles :88
+ Traffic Signs:87
                      
 This accuracy can be increased further by adding more images to the dataset and training them further.
 

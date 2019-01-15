@@ -4,7 +4,8 @@ The project aims to develop a Road Asset Detection system using convolution neur
 Our project is an extended work on the blooming Computer Vision on  localization of relevant objects. We implement a real-time system capable of accounting for different road assets like traffic signs,potholes,lanes,zebra lines and vehicles . We have used the YOLO model for this purpose.We used this model as they have superior localization and classification in addition to easier modification of layers,via transfer learning.We further seek to implement a fully functional real time system on Indian Roads.
 
 Epochs	             120
-Dataset size	       Potholes; 630
+
+Dataset size	       Potholes : 630
                      Pascal VOC: 2029
                      LISA: 6618
 Accuracy	            84

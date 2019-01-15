@@ -12,9 +12,10 @@ Dataset size
                      LISA: 6618
 
 Accuracy	           
-Pothole Detection :84
-Vehicles :88
-Traffic Signs:87
-                     
+
+                      Pothole Detection :84
+                      Vehicles :88
+                      Traffic Signs:87
+                      
 This accuracy can be increased further by adding more images to the dataset and training them further.
 

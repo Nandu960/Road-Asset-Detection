@@ -19,7 +19,7 @@ Accuracy
                       
 This accuracy can be increased further by adding more images to the dataset and training them further.
 
-Experiment Results
+## Experiment Results
 
 After building the models and training them, we had to test on various images and videos. The following are the snap shots of a few of them detecting various assets which pays off our objective.
 
@@ -27,3 +27,17 @@ After building the models and training them, we had to test on various images an
 <img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG" width="600">
 <img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/pothole.PNG" width="600">
 <img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/traffic%20sign.PNG" width="600">
+
+
+
+
+##### References :
+
+https://pjreddie.com/projects/pascal-voc-dataset-mirror/ 
+https://github.com/thtrieu/darkflowhttp://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
+
+https://towardsdatascience.com/lane-detection-with-deep-learning-part-1-9e096f3320b7
+https://arxiv.org/pdf/1506.02640.pdf
+https://www.semanticscholar.org/paper/Detecting-Potholes-Using-Simple-Image-Processing-Nienaber-Booysen/9375f4d7fb035924c709c58841b3f5acb7b989aa
+ 
+

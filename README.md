@@ -25,6 +25,8 @@ After building the models and training them, we had to test on various images an
 
 ![](https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG)
 
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG" width="48">
+
 ![](https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/pothole.PNG)
 
 ![](https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/traffic%20sign.PNG)

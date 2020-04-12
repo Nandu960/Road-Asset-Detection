@@ -27,6 +27,9 @@ After building the models and training them, we had to test on various images an
 <img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG" width="600">
 <img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/pothole.PNG" width="600">
 <img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/traffic%20sign.PNG" width="600">
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/traffic_light.PNG" width="600">
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/vehicles.PNG" width="600">
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/pedestrian.PNG" width="600">
 
 
 

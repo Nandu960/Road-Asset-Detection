@@ -23,11 +23,7 @@ Experiment Results
 
 After building the models and training them, we had to test on various images and videos. The following are the snap shots of a few of them detecting various assets which pays off our objective.
 
-![](https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG)
 
-<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG" width="500">
-
-![](https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/pothole.PNG)
-
-![](https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/traffic%20sign.PNG)
-
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/lane_det.PNG" width="600">
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/pothole.PNG" width="600">
+<img src="https://github.com/Nandu960/Road-Asset-Detection/blob/master/images/traffic%20sign.PNG" width="600">
